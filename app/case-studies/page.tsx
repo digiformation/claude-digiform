@@ -4,7 +4,7 @@ import { ArrowUpRight } from "lucide-react";
 
 const caseStudies = [
   {
-    client: "Aegean Sails",
+    client: "Ionian Sails",
     sector: "Yacht Charter",
     location: "Piraeus, Greece",
     headline: "From WhatsApp bookings to a fully automated charter operation",
@@ -13,7 +13,7 @@ const caseStudies = [
       { value: "€85k", label: "EU grant" },
       { value: "12 weeks", label: "engagement" },
     ],
-    href: "/case-studies/aegean-sails",
+    href: "/case-studies/ionian-sails",
     tags: ["Process Automation", "EU Funding", "CRM"],
   },
 ];

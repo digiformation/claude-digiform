@@ -27,7 +27,7 @@ const challenge = [
   {
     number: "05",
     title: "€85k EU grant left unclaimed",
-    description: "Aegean Sails qualified for ESPA digitization funding but had never applied. No advisor had flagged the opportunity in four years of operation.",
+    description: "Ionian Sails qualified for ESPA digitization funding but had never applied. No advisor had flagged the opportunity in four years of operation.",
   },
 ];
 
@@ -112,7 +112,7 @@ export default function AegeanSailsCaseStudy() {
           </div>
 
           <h1 className="text-[clamp(3rem,8vw,7rem)] font-display leading-[0.9] tracking-tight mb-8 max-w-4xl">
-            Aegean Sails
+            Ionian Sails
           </h1>
 
           <p className="text-xl text-background/60 max-w-2xl leading-relaxed mb-16">
@@ -281,7 +281,7 @@ export default function AegeanSailsCaseStudy() {
               </div>
               <div>
                 <p className="font-medium">Nikos Papadopoulos</p>
-                <p className="text-sm text-muted-foreground font-mono">Founder, Aegean Sails</p>
+                <p className="text-sm text-muted-foreground font-mono">Founder, Ionian Sails</p>
               </div>
             </div>
           </div>
