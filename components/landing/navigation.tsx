@@ -11,9 +11,10 @@ const navLinks = [
   { name: "Contact", href: "/contact" },
 ];
 
-export function Navigation() {
+export function Navigation({ darkHero = false }: { darkHero?: boolean }) {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const onDark = darkHero && !isScrolled;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -49,6 +50,7 @@ export function Navigation() {
               src="/logo.svg"
               alt="DigiForm.gr"
               className={`transition-all duration-500 w-auto ${isScrolled ? "h-8" : "h-24"}`}
+              style={onDark ? { filter: "brightness(0) invert(1)" } : undefined}
             />
           </a>
 
@@ -58,17 +60,17 @@ export function Navigation() {
               <a
                 key={link.name}
                 href={link.href}
-                className="text-sm text-foreground/70 hover:text-foreground transition-colors duration-300 relative group"
+                className={`text-sm transition-colors duration-300 relative group ${onDark ? "text-background/70 hover:text-background" : "text-foreground/70 hover:text-foreground"}`}
               >
                 {link.name}
-                <span className="absolute -bottom-1 left-0 w-0 h-px bg-foreground transition-all duration-300 group-hover:w-full" />
+                <span className={`absolute -bottom-1 left-0 w-0 h-px transition-all duration-300 group-hover:w-full ${onDark ? "bg-background" : "bg-foreground"}`} />
               </a>
             ))}
           </div>
 
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center gap-4">
-            <a href="#approach" className={`text-foreground/70 hover:text-foreground transition-all duration-500 ${isScrolled ? "text-xs" : "text-sm"}`}>
+            <a href="#approach" className={`transition-all duration-500 ${isScrolled ? "text-xs" : "text-sm"} ${onDark ? "text-background/70 hover:text-background" : "text-foreground/70 hover:text-foreground"}`}>
               Our approach
             </a>
             <Button

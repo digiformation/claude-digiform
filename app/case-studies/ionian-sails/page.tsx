@@ -93,7 +93,7 @@ const results = [
 export default function IonianSailsCaseStudy() {
   return (
     <main className="relative min-h-screen overflow-x-hidden">
-      <Navigation />
+      <Navigation darkHero />
 
       {/* Fictional disclaimer */}
       <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50">
@@ -104,7 +104,7 @@ export default function IonianSailsCaseStudy() {
       </div>
 
       {/* Hero */}
-      <section className="relative pt-48 pb-24 lg:pt-56 lg:pb-32 overflow-hidden border-b border-foreground/10">
+      <section className="relative pt-48 pb-24 lg:pt-56 lg:pb-32 bg-foreground text-background overflow-hidden">
         <div className="absolute inset-0 opacity-[0.03] pointer-events-none">
           <div className="absolute inset-0" style={{
             backgroundImage: `repeating-linear-gradient(-45deg, transparent, transparent 40px, currentColor 40px, currentColor 41px)`
@@ -113,29 +113,29 @@ export default function IonianSailsCaseStudy() {
 
         <div className="relative z-10 max-w-[1400px] mx-auto px-6 lg:px-12">
           <div className="flex flex-wrap gap-3 mb-10">
-            <span className="text-xs font-mono px-3 py-1.5 border border-foreground/20 text-muted-foreground">Yacht Charter</span>
-            <span className="text-xs font-mono px-3 py-1.5 border border-foreground/20 text-muted-foreground">Greece</span>
-            <span className="text-xs font-mono px-3 py-1.5 border border-foreground/20 text-muted-foreground">Process Automation</span>
-            <span className="text-xs font-mono px-3 py-1.5 border border-foreground/20 text-muted-foreground">EU Funding</span>
+            <span className="text-xs font-mono px-3 py-1.5 border border-background/20 text-background/60">Yacht Charter</span>
+            <span className="text-xs font-mono px-3 py-1.5 border border-background/20 text-background/60">Greece</span>
+            <span className="text-xs font-mono px-3 py-1.5 border border-background/20 text-background/60">Process Automation</span>
+            <span className="text-xs font-mono px-3 py-1.5 border border-background/20 text-background/60">EU Funding</span>
           </div>
 
           <h1 className="text-[clamp(3rem,8vw,7rem)] font-display leading-[0.9] tracking-tight mb-8 max-w-4xl">
             Ionian Sails
           </h1>
 
-          <p className="text-xl text-muted-foreground max-w-2xl leading-relaxed mb-16">
+          <p className="text-xl text-background/60 max-w-2xl leading-relaxed mb-16">
             A 12-vessel yacht charter company based in Piraeus eliminated double-bookings, recovered 68% of staff admin time, and secured €85,000 in EU funding — without disrupting a single peak-season week.
           </p>
 
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-0 border border-foreground/10">
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-0 border border-background/10">
             {[
               { label: "Fleet", value: "12 vessels" },
               { label: "Team", value: "3 staff" },
               { label: "Location", value: "Piraeus, GR" },
               { label: "Engagement", value: "12 weeks" },
             ].map((item, i) => (
-              <div key={i} className={`px-8 py-6 ${i < 3 ? "border-r border-foreground/10" : ""}`}>
-                <p className="text-xs font-mono text-muted-foreground mb-2">{item.label}</p>
+              <div key={i} className={`px-8 py-6 ${i < 3 ? "border-r border-background/10" : ""}`}>
+                <p className="text-xs font-mono text-background/40 mb-2">{item.label}</p>
                 <p className="text-lg font-display">{item.value}</p>
               </div>
             ))}
@@ -179,8 +179,8 @@ export default function IonianSailsCaseStudy() {
         </div>
       </section>
 
-      {/* Process */}
-      <section className="relative py-24 lg:py-32 overflow-hidden">
+      {/* Process — dark */}
+      <section className="relative py-24 lg:py-32 bg-foreground text-background overflow-hidden">
         <div className="absolute inset-0 opacity-[0.03] pointer-events-none">
           <div className="absolute inset-0" style={{
             backgroundImage: `repeating-linear-gradient(-45deg, transparent, transparent 40px, currentColor 40px, currentColor 41px)`
@@ -189,31 +189,31 @@ export default function IonianSailsCaseStudy() {
 
         <div className="relative z-10 max-w-[1400px] mx-auto px-6 lg:px-12">
           <div className="mb-16 lg:mb-24">
-            <span className="inline-flex items-center gap-3 text-sm font-mono text-muted-foreground mb-6">
-              <span className="w-8 h-px bg-foreground/30" />
+            <span className="inline-flex items-center gap-3 text-sm font-mono text-background/50 mb-6">
+              <span className="w-8 h-px bg-background/30" />
               The Digiform process
             </span>
             <h2 className="text-4xl lg:text-6xl font-display tracking-tight">
               Processes first.
               <br />
-              <span className="text-muted-foreground">Technology second.</span>
+              <span className="text-background/50">Technology second.</span>
             </h2>
           </div>
 
           <div>
             {process.map((step) => (
-              <div key={step.number} className="group flex flex-col lg:flex-row gap-8 lg:gap-16 py-10 lg:py-14 border-b border-foreground/10">
+              <div key={step.number} className="group flex flex-col lg:flex-row gap-8 lg:gap-16 py-10 lg:py-14 border-b border-background/10">
                 <div className="shrink-0 w-12">
-                  <span className="font-mono text-sm text-muted-foreground">{step.number}</span>
+                  <span className="font-mono text-sm text-background/40">{step.number}</span>
                 </div>
                 <div className="flex-1 grid lg:grid-cols-3 gap-4 lg:gap-16 items-start">
                   <div className="lg:col-span-1">
                     <h3 className="text-2xl font-display mb-2 group-hover:translate-x-2 transition-transform duration-300">
                       {step.title}
                     </h3>
-                    <span className="text-xs font-mono text-muted-foreground">{step.duration}</span>
+                    <span className="text-xs font-mono text-background/40">{step.duration}</span>
                   </div>
-                  <p className="lg:col-span-2 text-muted-foreground leading-relaxed">{step.description}</p>
+                  <p className="lg:col-span-2 text-background/60 leading-relaxed">{step.description}</p>
                 </div>
               </div>
             ))}
