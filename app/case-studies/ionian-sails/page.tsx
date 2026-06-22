@@ -140,6 +140,19 @@ export default function IonianSailsCaseStudy() {
               </div>
             ))}
           </div>
+
+          <div className="mt-8">
+            <a
+              href="https://ionian-sails.digiform.gr"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-3 text-sm font-mono text-background/50 hover:text-background/90 transition-colors group"
+            >
+              <span className="w-2 h-2 rounded-full bg-green-400 shrink-0" />
+              Live demo available — explore the platform
+              <ArrowUpRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+            </a>
+          </div>
         </div>
       </section>
 
@@ -250,8 +263,33 @@ export default function IonianSailsCaseStudy() {
         </div>
       </section>
 
+      {/* Demo callout */}
+      <section className="relative py-16 lg:py-20 border-y border-foreground/10 bg-foreground/[0.02]">
+        <div className="max-w-[1400px] mx-auto px-6 lg:px-12 flex flex-col lg:flex-row items-start lg:items-center justify-between gap-8">
+          <div>
+            <p className="text-xs font-mono text-muted-foreground mb-3">Interactive demo</p>
+            <h3 className="text-2xl lg:text-3xl font-display tracking-tight mb-2">
+              The platform described above is live.
+            </h3>
+            <p className="text-muted-foreground max-w-xl">
+              Explore the customer booking flow and the staff operations dashboard — built as a working prototype to illustrate what this engagement delivered.
+            </p>
+          </div>
+          <a
+            href="https://ionian-sails.digiform.gr"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-3 shrink-0 border border-foreground/20 px-6 py-4 text-sm font-mono hover:bg-foreground hover:text-background transition-all duration-300 group"
+          >
+            <span className="w-2 h-2 rounded-full bg-green-400 shrink-0" />
+            Open demo
+            <ArrowUpRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+          </a>
+        </div>
+      </section>
+
       {/* Results */}
-      <section className="relative py-24 lg:py-32 border-y border-foreground/10">
+      <section className="relative py-24 lg:py-32 border-b border-foreground/10">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
           <div className="mb-16">
             <span className="inline-flex items-center gap-3 text-sm font-mono text-muted-foreground mb-6">
