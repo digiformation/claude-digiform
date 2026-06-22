@@ -24,6 +24,9 @@ export const metadata: Metadata = {
   title: 'Digiform — Digital Business Transformation for SMEs',
   description: 'Holistic digital transformation consultancy for SMEs. Processes first, technology second. EU grant advisory included.',
   generator: 'v0.app',
+  icons: {
+    icon: '/icon.svg',
+  },
 }
 
 export default function RootLayout({
