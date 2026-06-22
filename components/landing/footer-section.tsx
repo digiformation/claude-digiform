@@ -17,6 +17,7 @@ const footerLinks = {
     { name: "Funding Advisory", href: "/services#funding" },
   ],
   Resources: [
+    { name: "Case Studies", href: "/case-studies" },
     { name: "EU Grant Guide", href: "/funding" },
     { name: "SME Readiness Checklist", href: "/contact" },
   ],
