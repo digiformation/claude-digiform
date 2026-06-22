@@ -124,14 +124,14 @@ export default function IonianSailsCaseStudy() {
           </h1>
 
           <p className="text-xl text-background/60 max-w-2xl leading-relaxed mb-16">
-            A 12-vessel yacht charter company based in Piraeus eliminated double-bookings, recovered 68% of staff admin time, and secured €85,000 in EU funding — without disrupting a single peak-season week.
+            A 12-vessel yacht charter company based in Corfu eliminated double-bookings, recovered 68% of staff admin time, and secured €85,000 in EU funding — without disrupting a single peak-season week.
           </p>
 
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-0 border border-background/10">
             {[
               { label: "Fleet", value: "12 vessels" },
               { label: "Team", value: "3 staff" },
-              { label: "Location", value: "Piraeus, GR" },
+              { label: "Location", value: "Corfu, GR" },
               { label: "Engagement", value: "12 weeks" },
             ].map((item, i) => (
               <div key={i} className={`px-8 py-6 ${i < 3 ? "border-r border-background/10" : ""}`}>

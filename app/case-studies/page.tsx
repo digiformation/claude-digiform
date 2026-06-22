@@ -6,7 +6,7 @@ const caseStudies = [
   {
     client: "Ionian Sails",
     sector: "Yacht Charter",
-    location: "Piraeus, Greece",
+    location: "Corfu, Greece",
     headline: "From WhatsApp bookings to a fully automated charter operation",
     stats: [
       { value: "68%", label: "admin reduction" },
