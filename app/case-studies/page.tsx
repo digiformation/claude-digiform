@@ -15,6 +15,7 @@ const caseStudies = [
     ],
     href: "/case-studies/ionian-sails",
     tags: ["Process Automation", "EU Funding", "CRM"],
+    fictional: true,
   },
 ];
 
@@ -69,6 +70,11 @@ export default function CaseStudiesPage() {
                         {tag}
                       </span>
                     ))}
+                    {study.fictional && (
+                      <span className="text-xs font-mono px-3 py-1 border border-yellow-400/40 text-yellow-600">
+                        Fictional
+                      </span>
+                    )}
                   </div>
                 </div>
 

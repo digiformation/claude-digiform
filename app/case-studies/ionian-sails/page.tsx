@@ -90,10 +90,18 @@ const results = [
   { value: "0", label: "double-bookings since launch" },
 ];
 
-export default function AegeanSailsCaseStudy() {
+export default function IonianSailsCaseStudy() {
   return (
     <main className="relative min-h-screen overflow-x-hidden">
       <Navigation />
+
+      {/* Fictional disclaimer */}
+      <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50">
+        <div className="bg-foreground text-background text-xs font-mono px-5 py-3 flex items-center gap-3 shadow-lg">
+          <span className="w-1.5 h-1.5 rounded-full bg-yellow-400 shrink-0" />
+          Ionian Sails is a fictional company created for illustrative purposes only.
+        </div>
+      </div>
 
       {/* Hero */}
       <section className="relative pt-48 pb-24 lg:pt-56 lg:pb-32 bg-foreground text-background overflow-hidden">
