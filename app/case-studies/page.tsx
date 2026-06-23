@@ -15,7 +15,21 @@ const caseStudies = [
     ],
     href: "/case-studies/ionian-sails",
     tags: ["Process Automation", "EU Funding", "CRM"],
-    fictional: true,
+    hasDemo: true,
+  },
+  {
+    client: "Aegean Boatworks",
+    sector: "Boat Maintenance",
+    location: "Piraeus, Greece",
+    headline: "From paper job cards to a fully digital boatyard — live before the spring rush",
+    stats: [
+      { value: "71%", label: "admin reduction" },
+      { value: "€65k", label: "EU grant" },
+      { value: "10 weeks", label: "engagement" },
+    ],
+    href: "/case-studies/aegean-boatworks",
+    tags: ["Process Automation", "EU Funding", "Inventory"],
+    hasDemo: true,
   },
 ];
 
@@ -70,9 +84,10 @@ export default function CaseStudiesPage() {
                         {tag}
                       </span>
                     ))}
-                    {study.fictional && (
-                      <span className="text-xs font-mono px-3 py-1 border border-yellow-400/40 text-yellow-600">
-                        Fictional
+                    {study.hasDemo && (
+                      <span className="inline-flex items-center gap-1.5 text-xs font-mono px-3 py-1 border border-green-400/40 text-green-700">
+                        <span className="w-1.5 h-1.5 rounded-full bg-green-400" />
+                        Live demo
                       </span>
                     )}
                   </div>
