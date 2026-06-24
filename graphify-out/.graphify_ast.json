@@ -1,0 +1,784 @@
+{
+  "nodes": [
+    {
+      "id": "contact_page_contactpage",
+      "label": "ContactPage",
+      "file_type": "code",
+      "source_file": "app/contact/page.tsx",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "docs_page_docspage",
+      "label": "DocsPage",
+      "file_type": "code",
+      "source_file": "app/docs/page.tsx",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "features_page_featurespage",
+      "label": "FeaturesPage",
+      "file_type": "code",
+      "source_file": "app/features/page.tsx",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "funding_page_fundingpage",
+      "label": "FundingPage",
+      "file_type": "code",
+      "source_file": "app/funding/page.tsx",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "installs_page_installspage",
+      "label": "InstallsPage",
+      "file_type": "code",
+      "source_file": "app/installs/page.tsx",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "app_layout_rootlayout",
+      "label": "RootLayout",
+      "file_type": "code",
+      "source_file": "app/layout.tsx",
+      "source_location": "L32",
+      "_origin": "ast"
+    },
+    {
+      "id": "app_page_home",
+      "label": "Home",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "services_page_servicespage",
+      "label": "ServicesPage",
+      "file_type": "code",
+      "source_file": "app/services/page.tsx",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_animated_sphere_animatedsphere",
+      "label": "AnimatedSphere",
+      "file_type": "code",
+      "source_file": "components/landing/animated-sphere.tsx",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_animated_tetrahedron_animatedtetrahedron",
+      "label": "AnimatedTetrahedron",
+      "file_type": "code",
+      "source_file": "components/landing/animated-tetrahedron.tsx",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_animated_wave_animatedwave",
+      "label": "AnimatedWave",
+      "file_type": "code",
+      "source_file": "components/landing/animated-wave.tsx",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_eligibility_section_eligibilitysection",
+      "label": "EligibilitySection",
+      "file_type": "code",
+      "source_file": "components/landing/eligibility-section.tsx",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_hero_section_herosection",
+      "label": "HeroSection",
+      "file_type": "code",
+      "source_file": "components/landing/hero-section.tsx",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_infrastructure_section_infrastructuresection",
+      "label": "InfrastructureSection",
+      "file_type": "code",
+      "source_file": "components/landing/infrastructure-section.tsx",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_metrics_section_metricssection",
+      "label": "MetricsSection",
+      "file_type": "code",
+      "source_file": "components/landing/metrics-section.tsx",
+      "source_location": "L74",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_philosophy_section_philosophysection",
+      "label": "PhilosophySection",
+      "file_type": "code",
+      "source_file": "components/landing/philosophy-section.tsx",
+      "source_location": "L26",
+      "_origin": "ast"
+    },
+    {
+      "id": "landing_supported_environments_supportedenvironments",
+      "label": "SupportedEnvironments",
+      "file_type": "code",
+      "source_file": "components/landing/supported-environments.tsx",
+      "source_location": "L15",
+      "_origin": "ast"
+    },
+    {
+      "id": "components_theme_provider_themeprovider",
+      "label": "ThemeProvider",
+      "file_type": "code",
+      "source_file": "components/theme-provider.tsx",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "ui_chart_chartconfig",
+      "label": "ChartConfig",
+      "file_type": "code",
+      "source_file": "components/ui/chart.tsx",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "ui_use_mobile_useismobile",
+      "label": "useIsMobile",
+      "file_type": "code",
+      "source_file": "components/ui/use-mobile.tsx",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "hooks_use_mobile_useismobile",
+      "label": "useIsMobile",
+      "file_type": "code",
+      "source_file": "hooks/use-mobile.ts",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "lib_utils_cn",
+      "label": "cn",
+      "file_type": "code",
+      "source_file": "lib/utils.ts",
+      "source_location": "L4",
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "funding_page",
+      "target": "landing_eligibility_section_eligibilitysection",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/funding/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "installs_page",
+      "target": "landing_supported_environments_supportedenvironments",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/installs/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_page",
+      "target": "landing_hero_section_herosection",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "app_page",
+      "target": "landing_philosophy_section_philosophysection",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_cta_section",
+      "target": "landing_animated_tetrahedron_animatedtetrahedron",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/landing/cta-section.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_footer_section",
+      "target": "landing_animated_wave_animatedwave",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/landing/footer-section.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "landing_hero_section",
+      "target": "landing_animated_sphere_animatedsphere",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/landing/hero-section.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_accordion",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/accordion.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_alert_dialog",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/alert-dialog.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_alert",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/alert.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_avatar",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/avatar.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_badge",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/badge.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_breadcrumb",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/breadcrumb.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_button_group",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/button-group.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_button",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/button.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_calendar",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/calendar.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_card",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/card.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_carousel",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/carousel.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_chart",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/chart.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_checkbox",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/checkbox.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_command",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/command.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_context_menu",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/context-menu.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_dialog",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/dialog.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_drawer",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/drawer.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_dropdown_menu",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/dropdown-menu.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_empty",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/empty.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_field",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/field.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_form",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/form.tsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_hover_card",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/hover-card.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_input_group",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/input-group.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_input_otp",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/input-otp.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_input",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/input.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_item",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/item.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_kbd",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/kbd.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_label",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/label.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_menubar",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/menubar.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_navigation_menu",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/navigation-menu.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_pagination",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/pagination.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_popover",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/popover.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_progress",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/progress.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_radio_group",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/radio-group.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_resizable",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/resizable.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_scroll_area",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/scroll-area.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_select",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/select.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_separator",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/separator.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_sheet",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/sheet.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_sidebar",
+      "target": "hooks_use_mobile_useismobile",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/sidebar.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_sidebar",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/sidebar.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_skeleton",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/skeleton.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_slider",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/slider.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_spinner",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/spinner.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_switch",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/switch.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_table",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/table.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_tabs",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/tabs.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_textarea",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/textarea.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_toast",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/toast.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_toggle_group",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/toggle-group.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_toggle",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/toggle.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_tooltip",
+      "target": "lib_utils_cn",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/tooltip.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "ui_input_otp_inputotp",
+      "target": "lib_utils_cn",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "components/ui/input-otp.tsx",
+      "source_location": "L23",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,1081 @@
+{
+  "nodes": [
+    {
+      "id": "public_apple_icon_appicon",
+      "label": "Apple Touch Icon",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\apple-icon.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_apple_icon_logo",
+      "label": "Digiform Logo Mark",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\apple-icon.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_apple_icon_brand",
+      "label": "Digiform Brand",
+      "file_type": "concept",
+      "source_file": null,
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_dark_32x32_image",
+      "label": "Dark App Icon 32x32 (V10/VIO logo)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon-dark-32x32.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_dark_32x32_logo",
+      "label": "V10 Logo",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon-dark-32x32.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_dark_32x32_theme",
+      "label": "Dark Theme",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon-dark-32x32.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_light_32x32_image",
+      "label": "Icon Light 32x32 (PNG Image)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon-light-32x32.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_light_32x32_logo",
+      "label": "v0 Logo Mark",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon-light-32x32.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_light_32x32_brand_vercel_v0",
+      "label": "Vercel v0 Brand",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon-light-32x32.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_light_32x32_color_scheme_light",
+      "label": "Light Color Scheme (White on Dark)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon-light-32x32.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_svg_file",
+      "label": "icon.svg",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_svg_digiform_logo",
+      "label": "Digiform Application Icon / Logo",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_svg_letter_n",
+      "label": "Stylised Letter N (foreground path)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_svg_letter_y",
+      "label": "Stylised Letter Y (foreground path)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_svg_rounded_rect_bg",
+      "label": "Rounded Rectangle Background (rx=37)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_icon_svg_adaptive_color_scheme",
+      "label": "Adaptive Color Scheme (light/dark via prefers-color-scheme)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\icon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_brand",
+      "label": "DigiForm.gr",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_tagline",
+      "label": "Digital Business Transformation - make it digital",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_icon",
+      "label": "Stylized bird/swallow icon",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_color_teal",
+      "label": "Teal/cyan color (#00BCD4 range)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_color_dark",
+      "label": "Dark gray/black color for text",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_file",
+      "label": "logo.png",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_svg",
+      "label": "logo.svg",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_brand_name",
+      "label": "DigiForm.gr",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_tagline",
+      "label": "Digital Business Transformation - make it Real!",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_color_navy",
+      "label": "#192786 (dark navy blue)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_color_cyan",
+      "label": "#24acf0 (bright cyan/sky blue)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_color_blue",
+      "label": "#0054b3 (medium blue)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_color_stroke",
+      "label": "#1000ab (deep blue stroke)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_font_courier",
+      "label": "Courier New (monospace font)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_logomark",
+      "label": "Abstract multi-path logomark (4 paths, flame/leaf shape)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo_tool_inkscape",
+      "label": "Inkscape 1.4.4 (SVG editor)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_logo_image",
+      "label": "Placeholder Logo (dotted triangle graphic)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_logo_triangle_shape",
+      "label": "Dotted Triangle Shape",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_logo_placeholder_asset",
+      "label": "Placeholder Brand Asset",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-logo.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_logo_svg_file",
+      "label": "placeholder-logo.svg",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_logo_svg_logo",
+      "label": "Placeholder Logo (SVG)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_logo_svg_text_element",
+      "label": "Logotype Text (Acmeline wordmark paths)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_logo_svg_icon_element",
+      "label": "Geometric Icon (triangular chevron symbol)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_dir_public_assets",
+      "label": "public/ directory (static assets)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-logo.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_user_image",
+      "label": "Placeholder User Avatar",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-user.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_user_visual_style",
+      "label": "Generic Person Silhouette Icon (Gray on White)",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-user.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_user_purpose",
+      "label": "Default User Profile Picture Placeholder",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder-user.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_image",
+      "label": "Placeholder Image",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_svg",
+      "label": "placeholder.svg",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_background_rect",
+      "label": "Background Rectangle",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_outer_circle",
+      "label": "Outer Circle",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_inner_circle",
+      "label": "Inner Circle",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_image_icon",
+      "label": "Image Placeholder Icon",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_placeholder_crosshair_lines",
+      "label": "Crosshair Lines",
+      "file_type": "image",
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "relation": "CONTAINS",
+      "confidence_score": 1.0,
+      "source": "public_apple_icon_appicon",
+      "target": "public_apple_icon_logo",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relation": "REPRESENTS",
+      "confidence_score": 0.85,
+      "source": "public_apple_icon_appicon",
+      "target": "public_apple_icon_brand",
+      "confidence": "INFERRED",
+      "weight": 1.0
+    },
+    {
+      "relation": "IS_LOGO_OF",
+      "confidence_score": 0.82,
+      "source": "public_apple_icon_logo",
+      "target": "public_apple_icon_brand",
+      "confidence": "INFERRED",
+      "weight": 1.0
+    },
+    {
+      "relation": "USED_BY",
+      "confidence_score": 0.88,
+      "source": "public_apple_icon_appicon",
+      "target": "public_apple_icon_brand",
+      "confidence": "INFERRED",
+      "weight": 1.0
+    },
+    {
+      "source": "public_icon_dark_32x32_image",
+      "target": "public_icon_dark_32x32_logo",
+      "relationship": "CONTAINS",
+      "type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "notes": "Image visually contains a V10/VIO stylized text logo",
+      "weight": 1.0
+    },
+    {
+      "source": "public_icon_dark_32x32_image",
+      "target": "public_icon_dark_32x32_theme",
+      "relationship": "HAS_THEME",
+      "type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "notes": "Icon uses a dark background theme, indicated by filename 'dark'",
+      "weight": 1.0
+    },
+    {
+      "source": "public_icon_dark_32x32_image",
+      "target": "public_icon_dark_32x32_image",
+      "relationship": "HAS_DIMENSIONS",
+      "type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "notes": "32x32 pixels as indicated by filename",
+      "weight": 1.0
+    },
+    {
+      "relationship": "CONTAINS",
+      "confidence_score": 1.0,
+      "source": "public_icon_light_32x32_image",
+      "target": "public_icon_light_32x32_logo",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "REPRESENTS",
+      "confidence_score": 0.85,
+      "source": "public_icon_light_32x32_logo",
+      "target": "public_icon_light_32x32_brand_vercel_v0",
+      "confidence": "INFERRED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES",
+      "confidence_score": 1.0,
+      "source": "public_icon_light_32x32_image",
+      "target": "public_icon_light_32x32_color_scheme_light",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "IS_ASSET_OF",
+      "confidence_score": 0.8,
+      "source": "public_icon_light_32x32_image",
+      "target": "public_icon_light_32x32_brand_vercel_v0",
+      "confidence": "INFERRED",
+      "weight": 1.0
+    },
+    {
+      "relation": "represents",
+      "basis": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source": "public_icon_svg_file",
+      "target": "public_icon_svg_digiform_logo",
+      "weight": 1.0
+    },
+    {
+      "relation": "contains",
+      "basis": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source": "public_icon_svg_digiform_logo",
+      "target": "public_icon_svg_rounded_rect_bg",
+      "weight": 1.0
+    },
+    {
+      "relation": "contains",
+      "basis": "INFERRED",
+      "confidence_score": 0.8,
+      "source": "public_icon_svg_digiform_logo",
+      "target": "public_icon_svg_letter_n",
+      "weight": 1.0
+    },
+    {
+      "relation": "contains",
+      "basis": "INFERRED",
+      "confidence_score": 0.75,
+      "source": "public_icon_svg_digiform_logo",
+      "target": "public_icon_svg_letter_y",
+      "weight": 1.0
+    },
+    {
+      "relation": "uses",
+      "basis": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source": "public_icon_svg_digiform_logo",
+      "target": "public_icon_svg_adaptive_color_scheme",
+      "weight": 1.0
+    },
+    {
+      "relation": "styled_by",
+      "basis": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source": "public_icon_svg_rounded_rect_bg",
+      "target": "public_icon_svg_adaptive_color_scheme",
+      "weight": 1.0
+    },
+    {
+      "relation": "styled_by",
+      "basis": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source": "public_icon_svg_letter_n",
+      "target": "public_icon_svg_adaptive_color_scheme",
+      "weight": 1.0
+    },
+    {
+      "relation": "styled_by",
+      "basis": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source": "public_icon_svg_letter_y",
+      "target": "public_icon_svg_adaptive_color_scheme",
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_file",
+      "dst": "public_logo_brand",
+      "type": "EXTRACTED",
+      "label": "displays_brand",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_file",
+      "dst": "public_logo_tagline",
+      "type": "EXTRACTED",
+      "label": "displays_tagline",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_file",
+      "dst": "public_logo_icon",
+      "type": "EXTRACTED",
+      "label": "contains_visual_element",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_brand",
+      "dst": "public_logo_tagline",
+      "type": "EXTRACTED",
+      "label": "has_tagline",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_icon",
+      "dst": "public_logo_color_teal",
+      "type": "EXTRACTED",
+      "label": "uses_color",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_brand",
+      "dst": "public_logo_color_dark",
+      "type": "EXTRACTED",
+      "label": "uses_color",
+      "confidence_score": 1.0,
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_brand",
+      "dst": "public_logo_color_teal",
+      "type": "EXTRACTED",
+      "label": "uses_color",
+      "confidence_score": 0.9,
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_icon",
+      "dst": "public_logo_brand",
+      "type": "INFERRED",
+      "label": "represents",
+      "confidence_score": 0.9,
+      "weight": 1.0
+    },
+    {
+      "src": "public_logo_brand",
+      "dst": "public_logo_icon",
+      "type": "INFERRED",
+      "label": "logo_icon_is",
+      "confidence_score": 0.9,
+      "weight": 1.0
+    },
+    {
+      "relationship": "CONTAINS_BRAND_NAME",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_brand_name",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "CONTAINS_TAGLINE",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_tagline",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "CONTAINS_LOGOMARK",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_logomark",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_color_navy",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_color_cyan",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_color_blue",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_color_stroke",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_FONT",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_font_courier",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "CREATED_WITH",
+      "confidence_score": 1.0,
+      "source": "public_logo_svg",
+      "target": "public_logo_tool_inkscape",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_logomark",
+      "target": "public_logo_color_navy",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_logomark",
+      "target": "public_logo_color_cyan",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_logomark",
+      "target": "public_logo_color_blue",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "STYLED_WITH_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_brand_name",
+      "target": "public_logo_color_navy",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "STYLED_WITH_COLOR",
+      "confidence_score": 1.0,
+      "source": "public_logo_tagline",
+      "target": "public_logo_color_cyan",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "REPRESENTS_ORGANIZATION",
+      "confidence_score": 0.95,
+      "source": "public_logo_svg",
+      "target": "public_logo_brand_name",
+      "confidence": "INFERRED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "CONTAINS",
+      "type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source": "public_placeholder_logo_image",
+      "target": "public_placeholder_logo_triangle_shape",
+      "weight": 1.0
+    },
+    {
+      "relationship": "IS_A",
+      "type": "INFERRED",
+      "confidence_score": 0.9,
+      "source": "public_placeholder_logo_image",
+      "target": "public_placeholder_logo_placeholder_asset",
+      "weight": 1.0
+    },
+    {
+      "relationship": "USES_MOTIF",
+      "type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source": "public_placeholder_logo_placeholder_asset",
+      "target": "public_placeholder_logo_triangle_shape",
+      "weight": 1.0
+    },
+    {
+      "relationship": "CONTAINS",
+      "description": "SVG file contains the placeholder logo composition",
+      "confidence_score": 1.0,
+      "source": "public_placeholder_logo_svg_file",
+      "target": "public_placeholder_logo_svg_logo",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "HAS_COMPONENT",
+      "description": "Logo includes a wordmark rendered as SVG path elements (fill #000, positioned from x~57 onward)",
+      "confidence_score": 1.0,
+      "source": "public_placeholder_logo_svg_logo",
+      "target": "public_placeholder_logo_svg_text_element",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "HAS_COMPONENT",
+      "description": "Logo includes a geometric triangular/chevron icon on the left (fill #171717, fill-rule evenodd, x 0-40)",
+      "confidence_score": 1.0,
+      "source": "public_placeholder_logo_svg_logo",
+      "target": "public_placeholder_logo_svg_icon_element",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "CONTAINS",
+      "description": "File resides in the Next.js public/ static assets directory",
+      "confidence_score": 1.0,
+      "source": "public_dir_public_assets",
+      "target": "public_placeholder_logo_svg_file",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "SERVED_FROM",
+      "description": "SVG logo is publicly served as a static asset from Next.js public/ directory",
+      "confidence_score": 0.9,
+      "source": "public_placeholder_logo_svg_logo",
+      "target": "public_dir_public_assets",
+      "confidence": "INFERRED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "HAS_ATTRIBUTE",
+      "description": "SVG dimensions are 215x48px; icon uses dark fill #171717 with evenodd clip rule",
+      "confidence_score": 1.0,
+      "source": "public_placeholder_logo_svg_file",
+      "target": "public_placeholder_logo_svg_icon_element",
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "PAIRED_WITH",
+      "description": "Wordmark text and geometric icon are visually paired as a combined logo lockup",
+      "confidence_score": 0.85,
+      "source": "public_placeholder_logo_svg_text_element",
+      "target": "public_placeholder_logo_svg_icon_element",
+      "confidence": "INFERRED",
+      "weight": 1.0
+    },
+    {
+      "source": "public_placeholder_user_image",
+      "target": "public_placeholder_user_visual_style",
+      "relationship": "HAS_VISUAL_STYLE",
+      "confidence_score": 1.0,
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "source": "public_placeholder_user_image",
+      "target": "public_placeholder_user_purpose",
+      "relationship": "SERVES_PURPOSE",
+      "confidence_score": 1.0,
+      "confidence": "EXTRACTED",
+      "weight": 1.0
+    },
+    {
+      "relationship": "contains",
+      "evidence_type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source": "public_placeholder_svg",
+      "target": "public_placeholder_background_rect",
+      "weight": 1.0
+    },
+    {
+      "relationship": "contains",
+      "evidence_type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source": "public_placeholder_svg",
+      "target": "public_placeholder_outer_circle",
+      "weight": 1.0
+    },
+    {
+      "relationship": "contains",
+      "evidence_type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source": "public_placeholder_svg",
+      "target": "public_placeholder_inner_circle",
+      "weight": 1.0
+    },
+    {
+      "relationship": "contains",
+      "evidence_type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source": "public_placeholder_svg",
+      "target": "public_placeholder_image_icon",
+      "weight": 1.0
+    },
+    {
+      "relationship": "contains",
+      "evidence_type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source": "public_placeholder_svg",
+      "target": "public_placeholder_crosshair_lines",
+      "weight": 1.0
+    },
+    {
+      "relationship": "uses_fill",
+      "evidence_type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source": "public_placeholder_svg",
+      "target": "public_placeholder_background_rect",
+      "weight": 1.0
+    },
+    {
+      "relationship": "contained_within",
+      "evidence_type": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source": "public_placeholder_image_icon",
+      "target": "public_placeholder_inner_circle",
+      "weight": 1.0
+    },
+    {
+      "relationship": "intersects",
+      "evidence_type": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "C:\\Users\\imitrushi\\OneDrive\\home\\github\\digiform-gr\\digiform\\public\\placeholder.svg",
+      "source": "public_placeholder_crosshair_lines",
+      "target": "public_placeholder_outer_circle",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 2344,
+  "output_tokens": 1780
+}

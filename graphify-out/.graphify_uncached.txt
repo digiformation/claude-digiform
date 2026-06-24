@@ -1,0 +1,11 @@
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\apple-icon.png
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\icon-dark-32x32.png
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\icon-light-32x32.png
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\icon.svg
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\logo.png
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\logo.svg
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\placeholder-logo.png
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\placeholder-logo.svg
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\placeholder-user.jpg
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\placeholder.jpg
+C:\Users\imitrushi\OneDrive\home\github\digiform-gr\digiform\public\placeholder.svg
